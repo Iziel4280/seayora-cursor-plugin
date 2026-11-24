@@ -1,0 +1,16 @@
+{
+  "name": "seayora",
+  "version": "1.0.0",
+  "description": "Property management and rental search from your editor: rent owed, repairs, leases, listings, contractor estimates and sales tax, scoped to your own Seayora account. Writes are proposals you approve in Seayora; nothing moves money.",
+  "author": {
+    "name": "Seayora LLC",
+    "email": "support@seayora.com"
+  },
+  "homepage": "https://seayora.com/docs/connect-claude-chatgpt-or-your-own-agent",
+  "repository": "https://github.com/Iziel4280/seayora-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["property-management", "real-estate", "landlord", "rentals", "leases", "maintenance", "contractors", "mcp"],
+  "logo": "https://seayora.com/seayora-avatar.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}
